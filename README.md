@@ -1,6 +1,6 @@
 # HAIR_SECRET.com
 
-Hair Secret Shop, Sentul Raya offers professional haircuts, colouring, styling, and treatments in a relaxing and friendly environment. Our skilled stylists use quality products and the latest techniques to help you achieve healthy, beautiful, and confident-looking hair every visit.
+Hair Secret Saloon, Sentul Raya offers professional haircuts, colouring, styling, and treatments in a relaxing and friendly environment. Our skilled stylists use quality products and the latest techniques to help you achieve healthy, beautiful, and confident-looking hair every visit.
 
 ## Run Locally
 
